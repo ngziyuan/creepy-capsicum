@@ -1,2 +1,2 @@
 # creepy-capsicum
-Learn about Git
+Learn about GitHub
